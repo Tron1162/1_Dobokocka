@@ -1,0 +1,60 @@
+﻿body {
+	font-size: 11pt;
+	background-image: url('bg.png');
+	margin: 0px;
+	padding: 0px;
+	width: 930px;
+	margin: auto;
+	font font-family: Verdana;
+}
+
+p{
+	color: #00008b;
+}
+
+p.bev{
+	font-size: small;
+	
+}
+
+
+hr {
+	width: 80%;
+}
+
+h1, h2 {
+	font-size: 17px;
+	padding: 5px;
+}
+
+h2 {
+color: #dc143c;	
+font-size: 17px;
+}
+
+#tartalom {
+	
+	margin: 0 auto 0 auto;
+	text-align: left;
+	
+}
+
+#oszlop1, #oszlop2, #oszlop3 {
+    float: left;
+    padding: 0px;
+   	
+}
+
+.kep {
+width: 240px;	
+margin-left: 30px;
+}
+
+a:link {
+	color: #dc143c;
+}
+
+#lablec {
+    clear: both;
+    
+}
